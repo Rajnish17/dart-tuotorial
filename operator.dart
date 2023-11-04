@@ -5,4 +5,8 @@ void main(){
     print("m-n= ${m-n}");
     print("m*n= ${m*n}");
     print("m/n= ${m/n}");
+    print("++m - ${++m}");
+  print("m++ - ${m++}");
+  print("--m - ${--m}");
+  print("m-- - ${m--}");
 }
